@@ -1,0 +1,14 @@
+Jordan Lee
+Austin, USA
+
+Experience
+Frontend Engineer, Nova Metrics (2020-2024)
+- Built React and TypeScript features for dashboard workflows.
+- Improved onboarding conversion by 15%.
+- Reduced page load time by 2.4 seconds.
+
+Skills
+React, TypeScript, Node.js, GraphQL, Jest
+
+Education
+B.S. Computer Science, UT Austin

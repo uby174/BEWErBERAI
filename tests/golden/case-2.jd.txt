@@ -1,0 +1,17 @@
+Full Stack Engineer
+Location: Remote, USA
+
+Must-Have
+- Required: 4+ years of software engineering experience.
+- Must have strong React, TypeScript, and Node.js skills.
+- Required qualifications include PostgreSQL and AWS.
+- You will implement CI/CD and Kubernetes deployment workflows.
+
+Preferred Qualifications
+- Nice to have GraphQL API design experience.
+- Bonus points for testing with Jest and Cypress.
+- Plus: experience improving accessibility and web performance.
+
+Responsibilities
+- Build customer-facing product features end-to-end.
+- Partner with product managers and designers on delivery.

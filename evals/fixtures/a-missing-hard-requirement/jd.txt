@@ -1,0 +1,12 @@
+Senior MLOps Engineer
+Location: Berlin, Germany
+
+Required Qualifications
+- Must have hands-on Kubernetes operations experience.
+- Required: Terraform, AWS, and CI/CD pipeline ownership.
+- Must have 5+ years of experience deploying ML systems.
+- Need to partner with product and platform engineering teams.
+
+Preferred Qualifications
+- Nice to have Python and SQL for data workflows.
+- Bonus: Airflow and Docker.

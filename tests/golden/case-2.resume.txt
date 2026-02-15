@@ -1,0 +1,17 @@
+Priya Raman
+San Francisco, USA
+Email: priya.raman@example.com
+Phone: +1 (628) 555-9087
+Address: 500 Market Street
+
+Experience
+Frontend Engineer, Nimbus Apps (2022-2025)
+- Built React + TypeScript UI for an analytics dashboard used by 120000 monthly users.
+- Improved Lighthouse performance score from 68 to 91.
+- Partnered with backend team to ship Node.js APIs and feature flags.
+
+Skills
+React, TypeScript, Node.js, GraphQL, Jest, Cypress, Figma
+
+Education
+B.E. Information Technology, Anna University

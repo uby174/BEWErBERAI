@@ -1,0 +1,18 @@
+Senior Machine Learning Engineer
+Location: Berlin, Germany
+
+Required Qualifications
+- Must have 5+ years of professional experience in machine learning or data science.
+- Required: Python, SQL, AWS.
+- You have hands-on experience building production ML pipelines and deploying models.
+- Must have experience with Airflow and Docker.
+- Need to collaborate with product and engineering teams.
+
+Preferred Qualifications
+- Nice to have experience with recommendation systems or search ranking.
+- Bonus: Scikit-learn and experiment design.
+- Plus: stakeholder communication in cross-functional teams.
+
+Responsibilities
+- Own model development lifecycle from data preparation to deployment.
+- Improve inference latency and measurable business impact.

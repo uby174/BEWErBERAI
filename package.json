@@ -1,0 +1,36 @@
+{
+  "name": "bewerberai---job-application-optimizer",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest",
+    "test:run": "vitest run",
+    "evals:run": "tsx evals/runner.ts",
+    "ci": "npm run typecheck && npm run test:run && npm run evals:run && npm run build"
+  },
+  "dependencies": {
+    "recharts": "^3.7.0",
+    "react": "^19.2.4",
+    "@google/genai": "^1.41.0",
+    "react-dom": "^19.2.4",
+    "mammoth": "1.6.0",
+    "docx": "9.0.3",
+    "file-saver": "2.0.5"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.1.0",
+    "@types/node": "^22.14.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "jsdom": "^26.0.0",
+    "tsx": "^4.20.3",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0",
+    "vitest": "^2.1.9"
+  }
+}

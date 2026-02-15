@@ -1,0 +1,16 @@
+Alex Schneider
+Berlin, Germany
+Email: alex.schneider@example.com
+Phone: +49 151 12345678
+
+Experience
+Senior Data Scientist, DataCore GmbH (2021-2025)
+- Built production ML pipelines in Python, SQL, and Airflow on AWS.
+- Reduced p95 inference latency by 120 ms.
+- Improved conversion by 18% in ranking experiments.
+
+Skills
+Python, SQL, AWS, Airflow, Docker, Scikit-learn
+
+Education
+M.Sc. Computer Science, TU Berlin

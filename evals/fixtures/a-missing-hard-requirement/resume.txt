@@ -1,0 +1,16 @@
+Marta Vogel
+Berlin, Germany
+Email: marta.vogel@example.com
+Phone: +49 170 1112233
+
+Experience
+Machine Learning Engineer, Helios Analytics GmbH (2021-2025)
+- Built production ML services in Python and SQL on AWS.
+- Implemented feature pipelines and monitoring dashboards.
+- Improved ranking quality through experiment design.
+
+Skills
+Python, SQL, AWS, Airflow, Docker
+
+Education
+M.Sc. Data Science, TU Berlin

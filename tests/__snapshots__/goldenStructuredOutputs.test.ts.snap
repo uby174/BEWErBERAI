@@ -1,0 +1,190 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`golden structured outputs > matches deterministic snapshots for two golden fixtures 1`] = `
+[
+  {
+    "caseId": "case-1",
+    "coverage": {
+      "hardRequirementsMissing": [
+        "Need to collaborate with product and engineering teams.",
+        "Senior Machine Learning Engineer Location: Berlin, Germany Required Qualifications - Must have 5+ years of professional experience in machine learning or data science",
+        "Need to collaborate with product and engineering teams",
+      ],
+      "keywordCoverage": {
+        "matched": [
+          "python",
+          "sql",
+          "scikit-learn",
+          "airflow",
+          "ml",
+          "AWS",
+        ],
+        "missing": [],
+        "partial": [],
+      },
+    },
+    "parsedJd": {
+      "hardRequirements": [
+        "Required: Python, SQL, AWS.",
+        "You have hands-on experience building production ML pipelines and deploying models.",
+        "Need to collaborate with product and engineering teams.",
+        "Senior Machine Learning Engineer Location: Berlin, Germany Required Qualifications - Must have 5+ years of professional experience in machine learning or data science",
+        "Required: Python, SQL, AWS",
+        "You have hands-on experience building production ML pipelines and deploying models",
+        "Must have experience with Airflow and Docker",
+        "Need to collaborate with product and engineering teams",
+      ],
+      "softRequirements": [
+        "Bonus: Scikit-learn and experiment design.",
+        "Responsibilities",
+        "Own model development lifecycle from data preparation to deployment.",
+        "Improve inference latency and measurable business impact.",
+        "Preferred Qualifications - Nice to have experience with recommendation systems or search ranking",
+        "Bonus: Scikit-learn and experiment design",
+        "Plus: stakeholder communication in cross-functional teams",
+      ],
+      "toolsTechKeywords": [
+        "python",
+        "sql",
+        "scikit-learn",
+        "airflow",
+        "ml",
+        "AWS",
+      ],
+    },
+    "privacy": {
+      "placeholders": [
+        "[PII_EMAIL_1]",
+        "[PII_PHONE_1]",
+      ],
+      "redactionCount": 2,
+      "redactionTypes": [
+        "EMAIL",
+        "PHONE",
+      ],
+      "sanitizedResumeSnippet": "Alex Schneider
+Berlin, Germany
+Email: [PII_EMAIL_1]
+Phone: [PII_PHONE_1]
+
+Experience
+Senior Data Scientist, DataCore GmbH (2021-2025)
+- Built production ML pipelines in Python, SQL, and Airflow on AWS.
+- Reduced p95 infe",
+    },
+    "retrievalChunkIds": [
+      "jobDescription:0:0-741",
+      "resumeContent:0:0-411",
+      "coverLetterContent:0:0-77",
+      "companyInfo:0:0-33",
+      "additionalContext:0:0-44",
+    ],
+    "schemaValidation": {
+      "errors": [],
+      "valid": true,
+    },
+    "tier": "SIMPLE",
+    "unauthorizedNumbers": [
+      "42",
+    ],
+  },
+  {
+    "caseId": "case-2",
+    "coverage": {
+      "hardRequirementsMissing": [
+        "Required: 4+ years of software engineering experience.",
+        "You will implement CI/CD and Kubernetes deployment workflows.",
+        "Full Stack Engineer Location: Remote, USA Must-Have - Required: 4+ years of software engineering experience",
+        "Required qualifications include PostgreSQL and AWS",
+      ],
+      "keywordCoverage": {
+        "matched": [
+          "typescript",
+          "react",
+          "node.js",
+          "graphql",
+        ],
+        "missing": [
+          "kubernetes",
+          "postgresql",
+          "ci/cd",
+          "USA",
+          "AWS",
+          "CI",
+          "CD",
+          "API",
+        ],
+        "partial": [],
+      },
+    },
+    "parsedJd": {
+      "hardRequirements": [
+        "Required: 4+ years of software engineering experience.",
+        "You will implement CI/CD and Kubernetes deployment workflows.",
+        "Full Stack Engineer Location: Remote, USA Must-Have - Required: 4+ years of software engineering experience",
+        "Must have strong React, TypeScript, and Node.js skills",
+        "Required qualifications include PostgreSQL and AWS",
+      ],
+      "softRequirements": [
+        "Responsibilities",
+        "Build customer-facing product features end-to-end.",
+        "Partner with product managers and designers on delivery.",
+        "Preferred Qualifications - Nice to have GraphQL API design experience",
+        "Bonus points for testing with Jest and Cypress",
+        "Plus: experience improving accessibility and web performance",
+      ],
+      "toolsTechKeywords": [
+        "typescript",
+        "react",
+        "node.js",
+        "kubernetes",
+        "postgresql",
+        "ci/cd",
+        "graphql",
+        "USA",
+        "AWS",
+        "CI",
+        "CD",
+        "API",
+      ],
+    },
+    "privacy": {
+      "placeholders": [
+        "[PII_EMAIL_1]",
+        "[PII_PHONE_1]",
+        "[PII_STREET_ADDRESS_1]",
+      ],
+      "redactionCount": 3,
+      "redactionTypes": [
+        "EMAIL",
+        "PHONE",
+        "STREET_ADDRESS",
+      ],
+      "sanitizedResumeSnippet": "Priya Raman
+San Francisco, USA
+Email: [PII_EMAIL_1]
+Phone: [PII_PHONE_1]
+Address: [PII_STREET_ADDRESS_1]
+
+Experience
+Frontend Engineer, Nimbus Apps (2022-2025)
+- Built React + TypeScript UI for an analytics dashboard use",
+    },
+    "retrievalChunkIds": [
+      "jobDescription:0:0-598",
+      "resumeContent:0:0-499",
+      "coverLetterContent:0:0-70",
+      "companyInfo:0:0-24",
+      "additionalContext:0:0-38",
+    ],
+    "schemaValidation": {
+      "errors": [],
+      "valid": true,
+    },
+    "tier": "SIMPLE",
+    "unauthorizedNumbers": [
+      "99.99",
+    ],
+  },
+]
+`;

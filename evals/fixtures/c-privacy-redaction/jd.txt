@@ -1,0 +1,10 @@
+Applied AI Engineer
+Location: Munich, Germany
+
+Required Qualifications
+- Must have Python and SQL experience.
+- Must have experience delivering NLP applications.
+- Need to work with product managers and engineering teams.
+
+Preferred Qualifications
+- Nice to have Docker and cloud deployment familiarity.

@@ -1,0 +1,2 @@
+I build clean user experiences and collaborate closely with backend engineers.
+I value maintainability, accessibility, and reliable release workflows.

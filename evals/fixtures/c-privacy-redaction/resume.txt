@@ -1,0 +1,14 @@
+Elena Fischer
+Munich, Germany
+Email: elena.fischer@example.com
+Phone: +49 160 4445566
+Address: 12 Linden Street
+Date of birth: 1994-08-10
+
+Experience
+Data Scientist, Orbit Systems GmbH (2022-2025)
+- Built NLP models for internal support tooling.
+- Collaborated with product and platform teams.
+
+Skills
+Python, SQL, NLP, Docker

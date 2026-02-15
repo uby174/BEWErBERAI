@@ -116,6 +116,7 @@ Create `.env.local` in project root:
 
 ```env
 VITE_GEMINI_API_KEY=your_actual_gemini_api_key
+VITE_GOOGLE_CLIENT_ID=your_google_oauth_client_id
 ```
 
 Important:
@@ -296,3 +297,4 @@ git push -u origin main
 ```
 
 If you already have a remote repository URL, replace `<your-org>/<your-repo>` accordingly.
+# BewerberAI
